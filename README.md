@@ -13,3 +13,5 @@
 **•	FastAPI**
 **•	Scrapy**
 **•	Aiogram**
+**•	Redis**
+**•	Celery**
